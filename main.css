@@ -1,0 +1,48 @@
+body {
+	background-color: rgb(109, 170, 194);
+	text-align: center;
+	font-family: 'Sniglet';
+	font-size: 15pt;
+	color:#282692;
+
+    
+}
+
+h1{
+	color: #282692;
+	font-size: 22pt;
+}
+
+p{
+	color: black;
+}
+
+input {
+	position:relative;
+	background-color:#db7f42;	
+	font-size: 6vw;
+	width: 8vw;
+	height:8vw;
+	margin: 0;
+	border-radius: 10px;
+	color: #282692;
+
+}
+
+#jogador {
+	
+	border: 1px solid black;
+	margin-top: 10px;
+	
+}
+
+#reiniciar {
+	position: flex;
+	width: 12vw;
+	height:5vw;
+	font-size: 22pt;
+	color: black;
+    border-radius: 10px;
+	font-family: 'Sniglet';
+	
+}
