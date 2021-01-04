@@ -20,9 +20,9 @@ p{
 input {
 	position:relative;
 	background-color:#ec7729;	
-	font-size: 80pt;
-	width: 180px;
-	height: 150px;
+	font-size: 50pt;
+	width: 100px;
+	height: 100px;
 	margin: 0;
 	border-radius: 10px;
 	color: #282692;
@@ -38,11 +38,15 @@ input {
 
 #reiniciar {
 	position: flex;
-	width: 12vw;
-	height:5vw;
+	width: 130px;
+	height: 80px;
 	font-size: 22pt;
 	color: black;
     border-radius: 10px;
 	font-family: 'Sniglet';
 	
+}
+
+#reiniciar:hover{
+	cursor: pointer;
 }
